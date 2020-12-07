@@ -22,7 +22,7 @@ Create this app to apply basic React Native concepts and help others to start th
 
 **Built with**
 
-1. [ReactNative](https://reactjs.org/)
+1. [ReactNative](https://reactnative.dev/)
 
 ## Want To Be a Contributor?
 
